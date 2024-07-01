@@ -1,12 +1,3 @@
-## Hi there 👋
+# Complete Interactive Python Course from Beginner to Advanced
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Welcome to the repository for the "Complete Interactive Python Course from Beginner to Advanced" offered by eShikhon. This course is designed to take you from a Python beginner to an advanced level, with a strong focus on practical exercises and real-world applications.
